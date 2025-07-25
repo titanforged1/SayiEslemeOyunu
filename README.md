@@ -120,6 +120,7 @@ app/
     ├── navigation/
     │   └── Navigation.kt
     └── SettingsScreen.kt
+
     
 ⚙️ Kurulum ve Çalıştırma
 
