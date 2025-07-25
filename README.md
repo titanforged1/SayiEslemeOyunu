@@ -109,8 +109,23 @@ app/
 9. **Kaybetme**: Süre dolarsa oyunu kaybedersiniz
 
 ## 📸 Ekran Görüntüleri
+<img width="383" height="778" alt="Screenshot 2025-07-25 120719" src="https://github.com/user-attachments/assets/6c29b92d-8b1e-43e9-beeb-41bedeafc1dd" />
+<img width="378" height="808" alt="Screenshot 2025-07-25 000843" src="https://github.com/user-attachments/assets/c15adb1f-75f2-48bb-83ae-a36adaa3135b" />
 
-*Not: Ekran görüntüleri proje klasöründeki `screenshots/` dizininde bulunmaktadır.*
+
+https://github.com/user-attachments/assets/42596d02-1b40-49ea-97c2-a63733520e36
+
+<img width="371" height="822" alt="Screenshot 2025-07-25 120708" src="https://github.com/user-attachments/assets/ff6611f7-27e1-4d89-870c-d69f07b862f6" />
+<img width="348" height="806" alt="Screenshot 2025-07-25 120806" src="https://github.com/user-attachments/assets/de1bd329-8678-416f-9a74-e404e654917e" />
+
+
+https://github.com/user-attachments/assets/d0659f01-a3ea-4844-827b-2d20766bcc22
+
+
+
+https://github.com/user-attachments/assets/8020cd8b-5b05-45e3-890f-44ed1f33c3fa
+
+
 
 - Ana Sayfa
 - Oyun Kurma Ekranı
