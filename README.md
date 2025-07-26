@@ -49,8 +49,15 @@ Bu uygulama, kullanıcıların kartlara dokunarak eşleşen sayıları bulmaya �
 
 ## 📸 Ekran Görüntüleri
 
-![Ekran1](https://github.com/user-attachments/assets/c7b6b296-0173-4380-8654-3b6c8458b38b)  
-![Ekran2](https://github.com/user-attachments/assets/aa785883-ce1f-4bd7-844c-5002382dfddf)  
+ 
+
+https://github.com/user-attachments/assets/2ba452fd-cd5b-49f6-904b-278704b095b1
+
+
+https://github.com/user-attachments/assets/cc9538b4-e0c9-438e-9739-5258f2102d27
+
+
+
 <img width="300" src="https://github.com/user-attachments/assets/e3dfad49-736e-4258-98c6-62a71342372f" alt="Koyu Tema"/>  
 <img width="300" src="https://github.com/user-attachments/assets/6199cb73-83c6-4216-8aca-4c3284fd0fd2" alt="Açık Tema"/>  
 <img width="300" src="https://github.com/user-attachments/assets/b938d2bc-1352-4325-861c-e59c6b0e524b" alt="Ekran"/>  
