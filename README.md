@@ -61,22 +61,19 @@ Uygulama bilgileri
 📸 Ekran Görüntüleri
 
 
-https://github.com/user-attachments/assets/54c58476-4b2f-4ba1-9cfd-3f6650827606
+
+https://github.com/user-attachments/assets/c7b6b296-0173-4380-8654-3b6c8458b38b
 
 
+https://github.com/user-attachments/assets/aa785883-ce1f-4bd7-844c-5002382dfddf
 
-https://github.com/user-attachments/assets/6e54f7d6-cb8c-462d-bce7-61ccdeee1ab8
+<img width="452" height="861" alt="Koyu tema" src="https://github.com/user-attachments/assets/e3dfad49-736e-4258-98c6-62a71342372f" />
 
+<img width="450" height="858" alt="Açık tema" src="https://github.com/user-attachments/assets/6199cb73-83c6-4216-8aca-4c3284fd0fd2" />
 
-https://github.com/user-attachments/assets/c930a62f-5037-41d4-963d-5bf17cca2f29
+<img width="451" height="856" alt="Screenshot 2025-07-26 214801" src="https://github.com/user-attachments/assets/b938d2bc-1352-4325-861c-e59c6b0e524b" />
 
-<img width="348" height="806" alt="Screenshot 2025-07-25 120806" src="https://github.com/user-attachments/assets/d10279fe-229f-4448-84d9-7be2bc47499c" />
-
-<img width="378" height="808" alt="Screenshot 2025-07-25 000843" src="https://github.com/user-attachments/assets/add4ecd0-d468-4268-a4d0-d569a4312bf0" />
-
-<img width="371" height="822" alt="Screenshot 2025-07-25 120708" src="https://github.com/user-attachments/assets/7e26d541-1dd3-4577-ab58-56ef2ea2ea9d" />
-
-<img width="383" height="778" alt="Screenshot 2025-07-25 120719" src="https://github.com/user-attachments/assets/261065fd-bbb5-43d0-a7aa-2935f93af29d" />
+<img width="444" height="859" alt="ekran" src="https://github.com/user-attachments/assets/7dbbaa5c-2ce4-45f6-bd1e-8e368d5cef30" />
 
 
 
@@ -92,36 +89,7 @@ Veri	      - Room Database
 Reaktif yapı-	StateFlow, Coroutines
 Animasyon	  - Compose Animations
 
-🗂️ Proje Yapısı
 
-app/
-├── data/
-│   └── local/
-│       ├── dao/
-│       │   └── ScoreDao.kt
-│       ├── entity/
-│       │   └── ScoreEntity.kt
-│       └── ScoreDatabase.kt
-├── di/
-│   └── AppModule.kt
-├── domain/
-│   └── model/
-│       └── MemoryCard.kt
-└── presentation/
-    ├── game/
-    │   ├── GameScreen.kt
-    │   ├── GameSetupScreen.kt
-    │   └── GameViewModel.kt
-    ├── home/
-    │   └── HomeScreen.kt
-    ├── score/
-    │   ├── ScoreScreen.kt
-    │   └── ScoreViewModel.kt
-    ├── navigation/
-    │   └── Navigation.kt
-    └── SettingsScreen.kt
-
-    
 ⚙️ Kurulum ve Çalıştırma
 
 Projeyi klonlayın:
