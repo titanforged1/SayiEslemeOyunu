@@ -80,34 +80,34 @@ https://github.com/user-attachments/assets/cc9538b4-e0c9-438e-9739-5258f2102d27
 
 ---
 
-Dosya Yapısı
-📂 app/
-├── 📁 data/
-│   └── 📁 local/
-│       ├── 📁 dao/
+### 📂 Proje Yapısı
+```plaintext
+app/
+├── data/
+│   └── local/
+│       ├── dao/
 │       │   └── ScoreDao.kt
-│       ├── 📁 entity/
+│       ├── entity/
 │       │   └── ScoreEntity.kt
 │       └── ScoreDatabase.kt
-├── 📁 di/
+├── di/
 │   └── AppModule.kt
-├── 📁 domain/
-│   └── 📁 model/
+├── domain/
+│   └── model/
 │       └── MemoryCard.kt
-└── 📁 presentation/
-    ├── 📁 game/
+└── presentation/
+    ├── game/
     │   ├── GameScreen.kt
     │   ├── GameSetupScreen.kt
     │   └── GameViewModel.kt
-    ├── 📁 home/
+    ├── home/
     │   └── HomeScreen.kt
-    ├── 📁 score/
+    ├── score/
     │   ├── ScoreScreen.kt
     │   └── ScoreViewModel.kt
-    ├── 📁 navigation/
+    ├── navigation/
     │   └── Navigation.kt
     └── SettingsScreen.kt
-
 ---
 
 ## ⚙️ Kurulum ve Çalıştırma
